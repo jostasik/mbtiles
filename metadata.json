@@ -1,0 +1,62 @@
+[
+    {
+        "name": "version",
+        "value": "1"
+    },
+    {
+        "name": "scheme",
+        "value": "tms"
+    },
+    {
+        "name": "basename",
+        "value": "world.mbtiles"
+    },
+    {
+        "name": "id",
+        "value": "world"
+    },
+    {
+        "name": "filesize",
+        "value": "65794689024"
+    },
+    {
+        "name": "center",
+        "value": "-94.1629,34.5133,1"
+    },
+    {
+        "name": "description",
+        "value": "Extract from osm2vectortiles.org"
+    },
+    {
+        "name": "format",
+        "value": "pbf"
+    },
+    {
+        "name": "maxzoom",
+        "value": "8"
+    },
+    {
+        "name": "minzoom",
+        "value": "0"
+    },
+    {
+        "name": "name",
+        "value": "Open Streets"
+    },
+    {
+        "name": "bounds",
+        "value": "-180, -85.0511, 180, 85.0511"
+    },
+    {
+        "name": "maskLevel",
+        "value": "8"
+    },
+    {
+        "name": "attribution",
+        "value": "&copy; OpenStreetMap contributors"
+    },
+    {
+        "name": "json",
+        "value": "{\"vector_layers\":[{\"id\":\"landuse\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\",\"class\":\"String\",\"type\":\"String\"}},{\"id\":\"waterway\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\",\"type\":\"String\",\"class\":\"String\"}},{\"id\":\"water\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\"}},{\"id\":\"aeroway\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\",\"type\":\"String\"}},{\"id\":\"barrier_line\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\",\"class\":\"String\"}},{\"id\":\"building\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\"}},{\"id\":\"landuse_overlay\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\",\"class\":\"String\"}},{\"id\":\"tunnel\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\",\"class\":\"String\",\"type\":\"String\",\"layer\":\"Number\",\"oneway\":\"Number\"}},{\"id\":\"road\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\",\"type\":\"String\",\"class\":\"String\",\"oneway\":\"Number\"}},{\"id\":\"bridge\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\",\"class\":\"String\",\"type\":\"String\",\"layer\":\"Number\",\"oneway\":\"Number\"}},{\"id\":\"admin\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\",\"admin_level\":\"Number\",\"disputed\":\"Number\",\"maritime\":\"Number\"}},{\"id\":\"country_label\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\",\"code\":\"String\",\"name\":\"String\",\"name_en\":\"String\",\"name_es\":\"String\",\"name_fr\":\"String\",\"name_de\":\"String\",\"name_ru\":\"String\",\"name_zh\":\"String\",\"scalerank\":\"Number\"}},{\"id\":\"marine_label\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"name\":\"String\",\"name_en\":\"String\",\"name_es\":\"String\",\"name_fr\":\"String\",\"name_de\":\"String\",\"name_ru\":\"String\",\"name_zh\":\"String\",\"placement\":\"String\",\"labelrank\":\"Number\"}},{\"id\":\"state_label\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\",\"abbr\":\"String\",\"area\":\"Number\",\"name\":\"String\",\"name_de\":\"String\",\"name_en\":\"String\",\"name_es\":\"String\",\"name_fr\":\"String\",\"name_ru\":\"String\",\"name_zh\":\"String\"}},{\"id\":\"place_label\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\",\"name\":\"String\",\"name_en\":\"String\",\"name_es\":\"String\",\"name_fr\":\"String\",\"name_de\":\"String\",\"name_ru\":\"String\",\"name_zh\":\"String\",\"type\":\"String\",\"capital\":\"String\",\"ldir\":\"String\",\"scalerank\":\"String\",\"localrank\":\"Number\"}},{\"id\":\"water_label\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\",\"name\":\"String\",\"area\":\"Number\",\"name_en\":\"String\",\"name_es\":\"String\",\"name_fr\":\"String\",\"name_de\":\"String\",\"name_ru\":\"String\",\"name_zh\":\"String\"}},{\"id\":\"poi_label\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\",\"ref\":\"String\",\"website\":\"String\",\"network\":\"String\",\"address\":\"String\",\"name\":\"String\",\"name_en\":\"String\",\"name_es\":\"String\",\"name_fr\":\"String\",\"name_de\":\"String\",\"name_ru\":\"String\",\"name_zh\":\"String\",\"type\":\"String\",\"scalerank\":\"Number\",\"localrank\":\"Number\",\"maki\":\"String\"}},{\"id\":\"road_label\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\",\"name\":\"String\",\"name_en\":\"String\",\"name_es\":\"String\",\"name_fr\":\"String\",\"name_de\":\"String\",\"name_ru\":\"String\",\"name_zh\":\"String\",\"ref\":\"String\",\"reflen\":\"Number\",\"len\":\"Number\",\"class\":\"String\",\"shield\":\"String\",\"localrank\":\"Number\"}},{\"id\":\"waterway_label\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\",\"name\":\"String\",\"name_en\":\"String\",\"name_es\":\"String\",\"name_fr\":\"String\",\"name_de\":\"String\",\"name_ru\":\"String\",\"name_zh\":\"String\",\"type\":\"String\",\"class\":\"String\"}},{\"id\":\"housenum_label\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":22,\"fields\":{\"osm_id\":\"Number\",\"house_num\":\"String\"}}]}"
+    }
+]
